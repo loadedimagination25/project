@@ -77,7 +77,7 @@ const Home = () => {
             </div>
             <footer>
                 <h4>
-                    Built with 💛 &nbsp; by &nbsp;
+                    Built by loadedimagination &nbsp; under &nbsp;
                     <a href="">BCA Co-ed</a>
                 </h4>
             </footer>
